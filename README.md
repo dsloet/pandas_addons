@@ -2,7 +2,7 @@
 Custom additions to pandas to make life easier
 
 
-## filters available
+## methods available
 ### df.select(column_name, value)
 
 Easy and more intuitive way of applying filters on a dataframe. Intention is
